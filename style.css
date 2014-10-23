@@ -1,0 +1,36 @@
+@import 
+url(http://fonts.googleapis.com/css?family=Lobster);
+@import
+url(http://fonts.googleapis.com/css?family=Poiret+One);
+
+body {
+	font-family: 'Lobster', cursive;
+}
+
+.button-secondary {
+            color: white;
+            border-radius: 4px;
+            text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+        }
+
+.button-secondary {
+            background: rgb(66, 184, 221); /* this is a light blue */
+        }
+
+::-webkit-input-placeholder {
+   font-size: 10px;
+   font-family: 'Poiret';
+   text-align: center;
+}
+
+.heading {
+	vertical-align: baseline;
+	text-align: center;
+}
+
+.pure-form {
+	text-align: center;
+}
+.button-secondary {
+	text-decoration: none;
+}
